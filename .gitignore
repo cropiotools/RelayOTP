@@ -62,3 +62,4 @@ yarn-error.log*
 .agents/
 
 railway_veriables.env
+railway_env_for_relayotp.txt
